@@ -1,0 +1,138 @@
+body{
+    background-color: rgb(255, 166, 0) ;
+    width: 1900px;
+    height: 500px;
+}
+.rectangle{
+    width: 1634px;
+    height: 989px;
+    display: flex;
+    border-radius: 17px;
+    background-color: orange;
+    margin-top: 180px;
+    margin-left: 130px;
+    
+}
+.box__1{
+    width: 892px;
+height: 988px;
+left: 108px;
+border-radius: 17px;
+padding: 1px;
+background-color:black;
+}
+nav{
+    width: 500px;
+    border-radius: 17px;
+    height: 60px;
+    margin-left: 18px;
+    display: flex;
+}
+nav ul{
+    display: flex;
+    
+
+}
+nav ul li a{
+    font-size: 13px;
+    list-style: none;
+    margin-top: 15px;
+    margin-left: 50px;
+    color: white;
+    text-decoration: none;
+
+}
+nav ul li a:hover{
+    color: white;
+    font-size:13px ;
+    width: 30px;
+    height: 17px;
+    background-color: orange;
+    border-radius: 7px;
+    padding: 5px;
+}
+.case{
+   width: 889px;
+   height: 100px;
+   display: flex;
+}
+.pic {
+    width: 500px;
+    height: 450px;
+    background-repeat: no-repeat;
+    margin-left: 70px;
+    background-position: cover;
+    
+}
+.pic img{
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+}
+.head{
+   color: orange;
+   font-size: 25px;
+   width: 300px;
+   height: 200px;
+}
+.btn{
+    width: 170px;
+    height: 28px;
+    font-size: 20px;
+    padding: 5px ;
+    color: white;
+    background-color: orange;
+    border-radius:12px ;
+    margin-top: 130px;
+    margin-left: 140px;
+    
+}
+.btn :hover{
+    color: white;
+    background-color: crimson;
+    padding: 10px 20px 6px 20px;
+    width: 170px;
+    height: 28px;
+    
+}
+.text{
+    width: 888px;
+    height: 430px;
+    color: white;
+    margin-top: 40px;
+}
+.text h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    border-bottom: 9px solid orange;
+    border-radius: 3px;
+    width: 564px;
+}
+.text h3{
+    font-size: 19px;
+    font-size: bold;
+    border-bottom: 5px solid orange;
+    border-radius: 3px;
+    width: 200px;
+}
+.box__2{
+    width: 550px;
+    height: 690px;
+    color: white;
+    padding: 15px;
+    border-radius: 17px;
+    background-color: black;
+    margin-top: 270px;
+    margin-left: 200px;
+}
+.box__2 h2{
+    color: white;
+    font-size: 35px;
+    border-bottom: 5px solid orange;
+    border-radius:  9px; 
+    width: 450px;
+}
+.box__2 img{
+    width: 500px;
+    height: 200px;
+}
